@@ -32,6 +32,3 @@ Creative front-end web developer with a keen eye for design and a passion for cr
                     </picture>
                     </a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/laszlo-v"><img src="https://github-readme-stats.vercel.app/api?username=laszlo-v&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="laszlo-v's GitHub stats" /></a><a href="https://github.com/laszlo-v" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laszlo-v&langs_count=10&title_color=14b8a6&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-
-
