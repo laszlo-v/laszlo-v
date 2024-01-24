@@ -30,7 +30,13 @@ You can contact me at [v2leslie@yahoo.com](mailto:v2leslie@yahoo.com)
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/laszlo-v/portfolio-2024" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=laszlo-v&repo=portfolio-2024&title_color=14b8a6&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/laszlo-v/findNumbers" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=laszlo-v&repo=findNumbers&title_color=14b8a6&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/laszlo-v/portfolio-2024" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=laszlo-v&repo=portfolio-2024&title_color=14b8a6&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/laszlo-v/findNumbers" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=laszlo-v&repo=findNumbers&title_color=14b8a6&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <img
+  src="https://res.cloudinary.com/skorpioklima/image/upload/v1706085481/pf_zfzxt6.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+</div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
