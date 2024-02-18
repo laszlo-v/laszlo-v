@@ -8,7 +8,7 @@ Creative front-end web developer with a keen eye for design and a passion for cr
 
 *   🌍  I'm based in Dublin - Ireland
 *   ✉️  You can contact me at [v2leslie@yahoo.com](mailto:v2leslie@yahoo.com)
-*   🧠  I'm learning Node.js, Express and Mongo db
+*   🧠  I'm learning Node.js, Express, MongoDB and HTMX
 
 ### Skills 
 <p align="left">
